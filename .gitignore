@@ -1,0 +1,14 @@
+# Dependencias de ambas carpetas
+node_modules/
+client/node_modules/
+
+# Variables de entorno
+.env
+
+# Archivos de compilación de React
+client/build/
+client/dist/
+
+# Configuración de editores
+.vscode/
+.DS_Store
